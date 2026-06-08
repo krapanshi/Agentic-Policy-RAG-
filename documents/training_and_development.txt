@@ -1,0 +1,115 @@
+ACME CORP — TRAINING AND DEVELOPMENT POLICY
+Document ID: HR-008 | Version: 2.0 | Effective Date: January 1, 2024
+
+========================================
+1. PHILOSOPHY
+========================================
+
+Acme Corp believes that continuous learning is the foundation of both individual growth and business success. We are committed to investing in every employee's professional development through a blend of formal training, on-the-job learning, mentoring, and external education support.
+
+========================================
+2. MANDATORY TRAINING (ALL EMPLOYEES)
+========================================
+
+The following training programs are mandatory and must be completed within the specified timeframes:
+
+2.1 New Employee Mandatory Modules (within first 2 weeks of joining)
+  - Code of Conduct and Business Ethics (1 hour)
+  - Data Privacy and GDPR/PDPB Awareness (45 minutes)
+  - IT Security Essentials (1 hour)
+  - Prevention of Sexual Harassment (POSH) at the Workplace (1 hour)
+  - Fire Safety and Emergency Procedures (30 minutes)
+  All modules are available on the LMS at learning.acmecorp.internal.
+
+2.2 Annual Refresher Training (all permanent employees, each calendar year)
+  - Annual Security Awareness Training — must be completed by March 31 (1.5 hours, LMS).
+  - POSH Annual Refresher — must be completed by June 30 (1 hour, LMS).
+  - Data Privacy Annual Update — must be completed by September 30 (45 minutes, LMS).
+
+2.3 Role-Based Mandatory Training
+  - Software Engineers: OWASP Secure Coding practices (biennial; facilitated by IT Security)
+  - Finance team: Financial Compliance and Anti-Bribery training (annual)
+  - People Managers: Managing with Inclusion training (first year as a manager, biennial refresher)
+  - Customer-facing roles: Customer Service Excellence (annually)
+
+Non-completion of mandatory training by the deadline is flagged to the employee's manager and HR and may affect performance review ratings.
+
+========================================
+3. LEARNING AND MANAGEMENT SYSTEM (LMS)
+========================================
+
+  - Platform: Acme Corp LMS at learning.acmecorp.internal
+  - Access: Available 24/7 on laptop and mobile (MDM-enrolled devices).
+  - Content library: Over 5,000 online courses in partnership with LinkedIn Learning and Coursera for Business.
+  - Employees receive a personal LinkedIn Learning licence on Day 1.
+  - Completion certificates are automatically stored in your employee profile.
+  - Managers can track their team's learning progress via the Manager Dashboard on the LMS.
+
+========================================
+4. COMPANY-SPONSORED TRAINING PROGRAMS
+========================================
+
+4.1 Acme Leadership Development Program (ALDP)
+  - Target audience: High-potential employees at Senior Associate level and above, nominated by their manager and approved by HR.
+  - Duration: 6-month program, cohort-based (2 cohorts per year: March and September intake).
+  - Format: Combination of classroom workshops, executive mentoring, and a capstone project presented to senior leadership.
+  - Covers: Strategic thinking, executive communication, stakeholder management, business acumen, leading high-performing teams.
+  - Nomination: Managers submit nominations by February 1 (March cohort) or August 1 (September cohort). HR shortlists candidates based on performance ratings (minimum "Exceeds Expectations") and career potential.
+
+4.2 Technical Certification Sponsorship
+  - Employees may apply for company funding to obtain industry-recognized technical certifications.
+  - Approved certification categories: Cloud (AWS, Azure, GCP), Cybersecurity (CISSP, CEH, CompTIA), Data Science (Databricks, Coursera ML specializations), Project Management (PMP, Scrum certifications), Quality (ISO auditor certifications).
+  - Funding limit: Up to INR 50,000 per employee per calendar year.
+  - Process: Submit a Training Sponsorship Request (Form HR-TR-01) via the LMS portal, approved by manager then HR. First exam attempt is company-funded. Second attempt (re-examination) is at 50% employee cost.
+  - Clawback: If the employee leaves within 12 months of completing sponsored certification, 100% of the cost is recovered. If they leave between 12–24 months, 50% is recovered.
+
+4.3 Functional Skills Workshops
+  - HR facilitates quarterly in-person and virtual workshops on functional skills:
+      - Q1: Communication and Presentation Skills
+      - Q2: Data Analysis with Excel and Power BI
+      - Q3: Agile and Scrum for Non-Technical Teams
+      - Q4: Time Management and Personal Productivity
+  - Registration: Via the LMS portal under "Internal Workshops." Seats are first-come, first-served.
+
+4.4 Graduate Development Program (GDP)
+  - A structured 18-month program for campus hires (fresh graduates).
+  - Components: 4 six-month rotations across different departments, technical bootcamps (first 6 weeks), mentoring by a Senior Manager, monthly cohort learning sessions.
+  - After completion, participants are placed in a permanent role based on performance and business availability.
+
+4.5 Manager Excellence Program (MEP)
+  - Mandatory for all newly promoted/hired people managers.
+  - Duration: 3 months.
+  - Covers: Goal setting, performance management, feedback frameworks, inclusive management, managing remote teams, conflict resolution.
+  - Delivered by: HR in partnership with external facilitators.
+  - Must be completed within 6 months of assuming a people manager role.
+
+========================================
+5. EXTERNAL CONFERENCES AND EVENTS
+========================================
+
+  - Employees may request funding to attend industry conferences and external workshops.
+  - Budget: INR 30,000 per employee per year for external events (over and above the certification sponsorship budget).
+  - Request Process: Submit Form HR-TR-01 at least 30 days before the event, with a justification for business relevance. Manager and HR approval required.
+  - Post-event: Employees must share key learnings with their team within 2 weeks of returning (summary email or 15-minute team presentation).
+
+========================================
+6. TUITION REIMBURSEMENT (HIGHER EDUCATION SUPPORT)
+========================================
+
+  - Employees pursuing a job-relevant part-time degree or postgraduate diploma may apply for tuition reimbursement.
+  - Reimbursement: Up to INR 80,000 per year per employee.
+  - Conditions:
+      a) Employee has completed at least 2 years of service.
+      b) The program is at an accredited institution.
+      c) The subject is relevant to current role or future career path within Acme Corp.
+      d) Minimum grade of 60% must be maintained (end-of-year transcript review).
+  - Clawback: If the employee leaves within 2 years of last reimbursement, full amount is recovered.
+  - Application: Form HR-TR-02 via the LMS portal. Requires manager, HR, and Department Head approval.
+
+========================================
+7. CONTACT
+========================================
+
+HR Learning & Development: learning@acmecorp.com | Ext. 2200
+LMS Portal: learning.acmecorp.internal
+LinkedIn Learning activation: learning.acmecorp.internal/linkedin

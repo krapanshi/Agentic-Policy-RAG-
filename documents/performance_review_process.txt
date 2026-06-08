@@ -1,0 +1,123 @@
+ACME CORP — PERFORMANCE REVIEW PROCESS
+Document ID: HR-005 | Version: 3.0 | Effective Date: January 1, 2024
+
+========================================
+1. OVERVIEW
+========================================
+
+Acme Corp's performance review process is designed to align individual contributions with organizational goals, support employee development, and make fair and transparent decisions about compensation, promotions, and career growth. Performance is evaluated through a structured, calibrated process involving self-assessment, manager feedback, and peer input.
+
+========================================
+2. REVIEW FREQUENCY AND TYPES
+========================================
+
+2.1 Annual Performance Review (Primary)
+  - Conducted ONCE per year in the month of DECEMBER for all permanent employees.
+  - Covers the full calendar year (January 1 – November 30).
+  - This review directly informs salary revisions (effective April 1 of the following year) and promotion decisions.
+
+2.2 Mid-Year Check-In (Mandatory)
+  - Conducted in JUNE every year.
+  - This is a developmental conversation, not a formal rating cycle. No ratings are assigned.
+  - Purpose: review progress against goals set in January, identify development needs, adjust goals if business priorities have changed.
+  - Both the manager and the employee must complete a short mid-year check-in form on the Performance Management System (PMS) within the first 2 weeks of June.
+
+2.3 Probation Reviews
+  - Employees in their probationary period (first 6 months) are reviewed at the 3-month mark and at the end of the 6-month probation.
+  - Probation reviews determine whether the employee is confirmed, extended, or terminated.
+
+2.4 Performance Improvement Plan (PIP)
+  - Triggered at any time when an employee's performance is assessed as significantly below expectations.
+  - PIP duration: 60–90 days.
+  - PIPs include clearly defined improvement targets, bi-weekly check-ins, and a formal outcome assessment.
+
+========================================
+3. WHAT IS ASSESSED
+========================================
+
+Every performance review evaluates three dimensions:
+
+3.1 Goal Achievement (50% weightage)
+  - Progress against 3–5 SMART goals set at the beginning of the year (in the PMS by January 31).
+  - Goals cascade from team/department OKRs to individual targets.
+  - Each goal is rated on a 4-point scale:
+      4 = Significantly Exceeded Expectations
+      3 = Met Expectations
+      2 = Partially Met Expectations
+      1 = Did Not Meet Expectations
+
+3.2 Competency Assessment (30% weightage)
+  - Employees are rated on 6 core competencies:
+      i.   Problem Solving & Decision Making
+      ii.  Communication & Collaboration
+      iii. Customer Focus
+      iv.  Innovation & Continuous Improvement
+      v.   Execution & Accountability
+      vi.  Leadership (for Senior roles and above)
+  - Each competency is rated on the same 4-point scale.
+
+3.3 Values and Behaviours (20% weightage)
+  - Alignment with Acme Corp's core values: Integrity, Ownership, Collaboration, Excellence, Inclusion.
+
+========================================
+4. OVERALL PERFORMANCE RATING
+========================================
+
+The weighted average of the three dimensions produces an Overall Performance Rating (OPR):
+
+  OPR 3.5 – 4.0  → Outstanding
+  OPR 3.0 – 3.49 → Exceeds Expectations
+  OPR 2.5 – 2.99 → Meets Expectations
+  OPR 2.0 – 2.49 → Partially Meets Expectations
+  OPR < 2.0      → Below Expectations (PIP consideration)
+
+========================================
+5. 360-DEGREE PEER FEEDBACK
+========================================
+
+For employees at Senior Associate level and above, the annual review includes 360-degree feedback from 3–5 peers nominated by the employee and validated by the manager. Peer feedback is used as qualitative input and does not directly affect the OPR score. Feedback is anonymous and aggregated.
+
+========================================
+6. STEP-BY-STEP REVIEW PROCESS (ANNUAL)
+========================================
+
+Timeline for December review cycle:
+
+  Nov 1–15   : Employee completes self-assessment on PMS. Self-assessment covers goal achievement, competencies, key achievements, and developmental goals for next year.
+
+  Nov 1–15   : Manager collects 360 feedback (if applicable).
+
+  Nov 16–30  : Manager completes the manager review form on PMS. Manager may not view the employee's self-assessment before completing their own rating.
+
+  Dec 1–10   : Manager and employee hold a 1:1 performance discussion meeting. PMS meeting notes must be recorded. The manager shares the proposed rating. Employee may submit a rebuttal within 3 working days of the meeting.
+
+  Dec 11–20  : HR facilitated calibration sessions by department. Calibration ensures consistent rating distribution across teams (target distribution: ~10% Outstanding, ~25% Exceeds, ~50% Meets, ~15% Partially Meets / Below).
+
+  Dec 21–31  : Final OPR confirmed. Employee notified via PMS. Signed acknowledgement required within 5 working days.
+
+  Jan 1–31   : New goals set for the upcoming year in PMS.
+
+  April 1    : Salary revisions and bonuses (if applicable) take effect.
+
+========================================
+7. PERFORMANCE MANAGEMENT SYSTEM (PMS)
+========================================
+
+All reviews, goal-setting, and feedback are managed via the online PMS at performance.acmecorp.internal. Employees must log in with their company credentials. Guides and video tutorials are available on the company intranet under HR > Performance.
+
+========================================
+8. APPEAL PROCESS
+========================================
+
+If an employee believes their rating is unfair, they may submit a formal appeal:
+  Step 1: Raise a concern to the skip-level manager within 5 working days of the final rating.
+  Step 2: The skip-level manager reviews within 10 working days and may adjust the rating.
+  Step 3: If unresolved, the employee may escalate to HR for an independent review.
+  Step 4: HR's decision is final.
+
+========================================
+9. CONTACT
+========================================
+
+HR Business Partner: hrteam@acmecorp.com | Ext. 2100
+PMS Portal: performance.acmecorp.internal

@@ -1,0 +1,102 @@
+{
+  "description": "Test dataset for Policy & Process Copilot — Agentic RAG Assistant",
+  "instructions": "Each question should return a correct, grounded answer with the cited source document. The 'expected_sources' list shows which document(s) the answer should come from.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the annual leave entitlement for full-time employees, and how do I apply for it?",
+      "expected_sources": ["leave_policy.txt"],
+      "expected_answer_keywords": ["21 working days", "HRSS portal", "5 working days", "manager approval"],
+      "expected_action": "RETRIEVE",
+      "type": "factual_retrieval"
+    },
+    {
+      "id": 2,
+      "question": "What are the steps to submit an expense reimbursement claim, and when will I receive the payment?",
+      "expected_sources": ["expense_reimbursement_policy.txt"],
+      "expected_answer_keywords": ["Form FIN-EC-01", "Finance Portal", "manager approval", "15-20 working days", "payroll cycle"],
+      "expected_action": "RETRIEVE",
+      "type": "process_question"
+    },
+    {
+      "id": 3,
+      "question": "What should I do immediately if I discover a security breach or think my laptop has been hacked?",
+      "expected_sources": ["incident_response_playbook.txt"],
+      "expected_answer_keywords": ["disconnect", "1 hour", "security@acmecorp.com", "+91-80-4567-8910", "#security-incidents"],
+      "expected_action": "RETRIEVE",
+      "type": "process_question"
+    },
+    {
+      "id": 4,
+      "question": "Who is eligible for remote work, and what are the requirements I need to meet?",
+      "expected_sources": ["remote_work_policy.txt"],
+      "expected_answer_keywords": ["6 months", "performance rating", "probation", "Remote Work Security Training", "2 days per week"],
+      "expected_action": "RETRIEVE",
+      "type": "eligibility_question"
+    },
+    {
+      "id": 5,
+      "question": "How often are performance reviews conducted and what dimensions are assessed?",
+      "expected_sources": ["performance_review_process.txt"],
+      "expected_answer_keywords": ["December", "mid-year", "June", "Goal Achievement", "Competency", "50%", "30%"],
+      "expected_action": "RETRIEVE",
+      "type": "factual_retrieval"
+    },
+    {
+      "id": 6,
+      "question": "What health insurance and medical benefits does the company provide to employees?",
+      "expected_sources": ["benefits_guide.txt"],
+      "expected_answer_keywords": ["5 lakhs", "Star Health", "maternity", "critical illness", "dental", "vision", "10,000"],
+      "expected_action": "RETRIEVE",
+      "type": "factual_retrieval"
+    },
+    {
+      "id": 7,
+      "question": "What should a new employee complete in their first week of joining?",
+      "expected_sources": ["onboarding_guide.txt"],
+      "expected_answer_keywords": ["orientation", "e-learning", "HRSS", "benefits enrollment", "manager", "buddy", "mandatory modules"],
+      "expected_action": "RETRIEVE",
+      "type": "process_question"
+    },
+    {
+      "id": 8,
+      "question": "What are the password requirements for company systems and is multi-factor authentication required?",
+      "expected_sources": ["it_security_policy.txt"],
+      "expected_answer_keywords": ["12 characters", "complexity", "90 days", "MFA", "mandatory", "Microsoft Authenticator", "1Password"],
+      "expected_action": "RETRIEVE",
+      "type": "factual_retrieval"
+    },
+    {
+      "id": 9,
+      "question": "What training programs and career development opportunities does Acme Corp offer?",
+      "expected_sources": ["training_and_development.txt"],
+      "expected_answer_keywords": ["Leadership Development Program", "certification sponsorship", "50,000", "LinkedIn Learning", "Graduate Development", "Manager Excellence"],
+      "expected_action": "RETRIEVE",
+      "type": "factual_retrieval"
+    },
+    {
+      "id": 10,
+      "question": "What is the company's policy on conflicts of interest, and when must I declare one?",
+      "expected_sources": ["code_of_conduct.txt"],
+      "expected_answer_keywords": ["disclose", "7 days", "January 31", "annual declaration", "Form HR-COI-01", "compliance@acmecorp.com", "5 working days"],
+      "expected_action": "RETRIEVE",
+      "type": "policy_question"
+    }
+  ],
+  "bonus_agentic_tests": [
+    {
+      "id": 11,
+      "question": "What is it?",
+      "expected_action": "CLARIFY",
+      "type": "agentic_clarify",
+      "note": "Deliberately vague — should trigger CLARIFY action"
+    },
+    {
+      "id": 12,
+      "question": "Hello, how are you?",
+      "expected_action": "DIRECT_ANSWER",
+      "type": "agentic_direct",
+      "note": "Greeting — should trigger DIRECT_ANSWER action (no document lookup)"
+    }
+  ]
+}

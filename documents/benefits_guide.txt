@@ -1,0 +1,122 @@
+ACME CORP — EMPLOYEE BENEFITS GUIDE
+Document ID: HR-006 | Version: 2.3 | Effective Date: January 1, 2024
+
+========================================
+1. INTRODUCTION
+========================================
+
+Acme Corp provides a comprehensive benefits package to all eligible employees. Benefits are effective from the first day of employment unless otherwise stated. This guide summarises all benefits available to permanent full-time and part-time employees.
+
+========================================
+2. HEALTH INSURANCE
+========================================
+
+2.1 Group Medical Insurance (GMI)
+  - Coverage: INR 5,00,000 (5 lakhs) per insured person per policy year.
+  - Coverage is extended automatically to: employee + spouse + up to 2 dependent children (below age 25).
+  - Parents/in-laws: can be added at the employee's cost at group rates (enrollment during July window only).
+  - Provider: Star Health and Allied Insurance.
+  - Network hospitals: Over 14,000 cashless hospitals across India (list at hr.acmecorp.internal/insurance).
+  - Pre-existing diseases: Covered with no waiting period from Day 1 of employment.
+  - Maternity cover: INR 50,000 for normal delivery; INR 75,000 for Caesarean. Waiting period: 9 months of continuous coverage.
+  - Day-care procedures: Covered up to INR 50,000 per year.
+  - How to claim: For planned procedures, call the insurer's pre-authorization number 48 hours in advance. For emergencies, visit any network hospital with your company ID card. Non-network reimbursement requires original bills and must be submitted within 30 days of discharge.
+
+2.2 Critical Illness Cover (Top-up)
+  - Additional cover of INR 10,00,000 for 36 listed critical illnesses (cancer, heart attack, stroke, organ transplant, etc.).
+  - Company-funded: Fully paid by Acme Corp.
+  - Available to employees who have completed 6 months of service.
+
+========================================
+3. DENTAL BENEFITS
+========================================
+
+  - Annual dental reimbursement of INR 10,000 per employee per year.
+  - Covers: routine cleaning, fillings, extractions, root canals, and X-rays.
+  - Does NOT cover: cosmetic procedures (teeth whitening, veneers), orthodontic braces (except for medical necessity certified by a specialist).
+  - Claim process: Visit any registered dentist, collect original receipt, submit via Finance Portal (finance.acmecorp.internal/expenses) under "Dental" category within 60 days.
+
+========================================
+4. VISION BENEFITS
+========================================
+
+  - Annual vision reimbursement of INR 5,000 per employee per year.
+  - Covers: eye examination, prescription glasses or contact lenses.
+  - Does NOT cover: LASIK or other surgical vision correction.
+  - Claim process: Same as dental (Finance Portal).
+
+========================================
+5. TERM LIFE INSURANCE
+========================================
+
+  - Coverage: 3x Annual Cost to Company (CTC).
+  - Beneficiary: Designated by the employee during onboarding or updated via the HRSS portal at any time.
+  - Effective from Day 1 of employment.
+  - This is a group term life policy — no medical tests required.
+  - In the event of an employee's death: HR will contact the nominated beneficiary within 2 working days.
+
+========================================
+6. PERSONAL ACCIDENT INSURANCE
+========================================
+
+  - Accidental death: 5x Annual CTC paid to nominee.
+  - Permanent total disability: 5x Annual CTC.
+  - Permanent partial disability: Proportional to disability percentage per standard insurance table.
+  - Temporary total disability: 1% of sum insured per week, up to 104 weeks.
+  - Effective from Day 1 of employment.
+
+========================================
+7. EMPLOYEE PROVIDENT FUND (EPF)
+========================================
+
+  - Employee contribution: 12% of Basic Salary.
+  - Employer contribution: 12% of Basic Salary (3.67% to EPF, 8.33% to EPS — Employee Pension Scheme).
+  - As mandated under the Employees' Provident Funds and Miscellaneous Provisions Act.
+  - Access your EPF balance via the EPFO portal at epfindia.gov.in using your UAN number.
+  - UAN generation: Done by HR on joining. Employees must activate their UAN within 30 days of receiving it.
+
+========================================
+8. GRATUITY
+========================================
+
+  - Payable upon separation after completing 5 years of continuous service.
+  - Formula: (15/26) × Last Basic Salary per month × Number of years of service.
+  - Governed by the Payment of Gratuity Act, 1972.
+
+========================================
+9. EMPLOYEE ASSISTANCE PROGRAM (EAP)
+========================================
+
+  - Free, confidential counselling service for employees and their immediate family members.
+  - Up to 8 free sessions per year (per household).
+  - Covers: mental health, work stress, relationship issues, financial stress, substance use.
+  - Access: Call 1800-XXX-XXXX (toll-free, 24/7) or book online at eap.acmecorp.internal.
+  - All interactions are completely confidential — not shared with HR or managers.
+
+========================================
+10. FLEXI-PAY COMPONENT
+========================================
+
+Employees can allocate part of their salary to tax-exempt components under the Flexi-Pay plan:
+  - Meal vouchers: Up to INR 2,200 per month.
+  - Leave Travel Allowance (LTA): Twice in a 4-year block.
+  - Books & Periodicals: Up to INR 1,000 per month.
+  - Phone & Internet reimbursement: Up to INR 1,200 per month (receipts required).
+  Declaration must be made during July's Flexi-Pay enrollment window.
+
+========================================
+11. WELLNESS BENEFITS
+========================================
+
+  - Annual health check-up: Free comprehensive health screening at empanelled diagnostic centres. Eligible after completing 1 year of service. Book via hr.acmecorp.internal/wellness.
+  - Gym membership subsidy: INR 2,000 per year reimbursement for gym or fitness class memberships. Claim via Finance Portal.
+  - Vaccination programme: Free annual flu shot administered at the office each October.
+
+========================================
+12. CONTACT
+========================================
+
+HR Benefits queries: hrteam@acmecorp.com | Ext. 2100
+Insurance claims support: insurance@acmecorp.com
+EAP (confidential): 1800-XXX-XXXX or eap.acmecorp.internal
+HRSS Portal: hr.acmecorp.internal

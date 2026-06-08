@@ -1,0 +1,107 @@
+ACME CORP — GENERAL HR POLICIES
+Document ID: HR-007 | Version: 2.0 | Effective Date: January 1, 2024
+
+========================================
+1. WORKING HOURS
+========================================
+
+1.1 Standard Working Hours
+  - Full-time employees: 40 hours per week, Monday to Friday.
+  - Standard office hours: 9:00 AM – 6:00 PM with a 1-hour lunch break.
+  - Flexible start/end: Employees may start between 8:30 AM and 10:00 AM and adjust end time accordingly, subject to manager approval. Core hours (when everyone must be available) are 10:00 AM – 4:00 PM.
+
+1.2 Overtime
+  - Overtime requires prior written approval from the manager.
+  - Non-exempt employees are compensated at 1.5x the standard hourly rate for hours above 40 per week.
+  - Exempt/managerial employees are not eligible for overtime pay but may receive compensatory time off at the manager's discretion.
+
+1.3 Break Policy
+  - Employees are entitled to one 1-hour unpaid lunch break and two 15-minute paid rest breaks per 8-hour shift.
+  - Breaks must not be taken at the beginning or end of the shift.
+
+========================================
+2. ATTENDANCE AND PUNCTUALITY
+========================================
+
+2.1 Attendance Tracking
+  All employees must mark their attendance daily using the Biometric Attendance System at the office entrance (in-office days) or log in/out via the HRSS portal (remote days). Failure to mark attendance will result in the day being treated as absent.
+
+2.2 Tardiness
+  Arriving more than 15 minutes after the agreed start time without prior notice to the manager is considered tardiness. Three instances of unexplained tardiness per month will result in a formal discussion with HR.
+
+2.3 Unplanned Absence
+  If an employee is unable to attend work, they must notify their manager by 9:00 AM. Unexplained absences will be deducted from the available leave balance. Three consecutive unexplained absences are treated as abandonment of employment and grounds for disciplinary action.
+
+========================================
+3. DRESS CODE
+========================================
+
+3.1 Business Casual (Standard)
+The standard dress code at Acme Corp is business casual:
+  - Acceptable: Smart trousers/chinos, collared shirts, blouses, formal/smart casual dresses, formal shoes or smart flats.
+  - Not acceptable: Shorts, flip-flops, ripped jeans, sleeveless shirts (for men), revealing or overly casual attire, clothing with offensive slogans.
+
+3.2 Client Visit Days
+On days when clients are visiting the office or when attending external client meetings, the dress code is Business Formal:
+  - Suits or formal blazers with dress trousers/skirt, formal shirts, and formal footwear.
+  - HR/Administration will notify teams of client visit days via calendar.
+
+3.3 Casual Fridays
+Every Friday is designated "Smart Casual Friday." Employees may wear clean, smart casual clothing including neat jeans (no rips) and casual shoes. The same restrictions on offensive or revealing clothing apply.
+
+3.4 Religious and Cultural Dress
+The company fully respects and accommodates traditional, religious, or cultural attire. Employees are never required to modify traditional or religious dress to comply with the above guidelines.
+
+========================================
+4. SALARY AND PAYROLL
+========================================
+
+4.1 Payment Schedule
+  - Salaries are paid on the last working day of each calendar month.
+  - Payslips are available digitally on the HRSS portal by the 25th of each month.
+
+4.2 Salary Review
+  - Salary revisions take effect on April 1 each year, following the completion of the December annual performance review.
+  - Eligibility: Employees who join before October 1 of the prior year and receive a minimum OPR of 2.5 (Meets Expectations) are eligible.
+
+4.3 Payroll Queries
+  Contact payroll@acmecorp.com or Ext. 3100 for any payroll discrepancy. All queries must be raised within 60 days of the affected payslip.
+
+========================================
+5. PROBATION PERIOD
+========================================
+
+  - All new permanent hires are subject to a 6-month probation period.
+  - During probation, a performance review is conducted at Month 3 and Month 6.
+  - Either party may terminate employment during probation with 2 weeks' notice (instead of the standard notice period).
+  - Extension: Probation may be extended by up to 3 months with HR approval if performance goals are not fully met.
+
+========================================
+6. NOTICE PERIOD AND RESIGNATION
+========================================
+
+  - Junior employees (Associate to Senior Associate): 30-day notice period.
+  - Mid-level employees (Manager to Senior Manager): 60-day notice period.
+  - Senior employees (Director and above): 90-day notice period.
+  - Notice period starts on the day the written resignation is accepted by the manager.
+  - Buy-out: The company may request a buy-out to shorten the notice period (with employee agreement).
+  - Resignation must be submitted in writing to the manager and HR via the HRSS portal.
+
+========================================
+7. GRIEVANCE REDRESSAL
+========================================
+
+Employees who have a workplace grievance (other than those covered by POSH) should follow this process:
+  Step 1: Raise the concern verbally with the direct manager within 5 working days.
+  Step 2: If unresolved, submit a formal written grievance to HR via hrteam@acmecorp.com within 10 working days.
+  Step 3: HR will acknowledge within 2 working days and investigate within 15 working days.
+  Step 4: HR issues a written resolution. Employee may appeal to the HR Director within 5 working days.
+  Step 5: HR Director's decision is final within the company's internal process.
+
+========================================
+8. CONTACT
+========================================
+
+HR Team:     hrteam@acmecorp.com | Ext. 2100
+Payroll:     payroll@acmecorp.com | Ext. 3100
+HRSS Portal: hr.acmecorp.internal

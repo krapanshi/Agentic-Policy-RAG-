@@ -1,0 +1,102 @@
+ACME CORP — EXPENSE REIMBURSEMENT POLICY
+Document ID: FIN-003 | Version: 2.1 | Effective Date: April 1, 2024
+
+========================================
+1. PURPOSE AND SCOPE
+========================================
+
+This policy governs reimbursement of reasonable, necessary, and pre-approved business expenses incurred by employees while performing their duties for Acme Corp. It applies to all full-time, part-time, and contract employees.
+
+========================================
+2. ELIGIBLE EXPENSE CATEGORIES
+========================================
+
+2.1 Travel Expenses
+  - Airfare: Economy class for domestic flights; Business class permitted only for flights exceeding 6 hours with prior VP approval.
+  - Train / Bus: Any class; must use most economical available option.
+  - Taxi / Rideshare: Claimable for business travel when public transport is unavailable or impractical.
+  - Personal vehicle mileage: Reimbursed at the standard mileage rate of INR 8 per kilometre (revised annually).
+  - Parking fees and tolls: Fully reimbursable with receipts.
+
+2.2 Accommodation
+  - Hotel stays: Reimbursable up to INR 5,000 per night for domestic travel; INR 12,000 per night for international travel. Stays exceeding these limits require VP approval.
+  - Airbnb or equivalent: Permitted only if cost is lower than the applicable hotel cap.
+
+2.3 Meals and Entertainment
+  - Daily meal allowance per diem: INR 800 per day for domestic travel.
+  - Business meals (with clients or partners): Up to INR 3,000 per person per meal; must include names and business purpose of all attendees.
+  - Alcohol: Not reimbursable unless part of a client entertainment event pre-approved by a Director.
+
+2.4 Communication
+  - Mobile roaming charges during business travel: Reimbursable in full.
+  - Wi-Fi charges at hotels or airports: Reimbursable in full.
+
+2.5 Office Supplies and Equipment
+  - Supplies up to INR 500 may be purchased and claimed without pre-approval.
+  - Equipment (laptop accessories, monitors, etc.) above INR 1,000 requires pre-approval from the IT department.
+
+2.6 Training and Conferences
+  - Registration fees, course materials, and related travel for pre-approved training events are fully reimbursable. See Training & Development Policy (HR-008).
+
+========================================
+3. NON-REIMBURSABLE EXPENSES
+========================================
+
+The following expenses will NOT be reimbursed:
+  - Personal entertainment (movies, gym, personal shopping)
+  - Traffic fines, parking tickets, or other penalties
+  - Expenses for family members or guests not directly involved in business activities
+  - Losses due to theft of personal items
+  - Upgrades from economy to business class without VP approval
+  - Expenses submitted more than 60 days after they were incurred
+
+========================================
+4. EXPENSE CLAIM SUBMISSION PROCESS (STEP-BY-STEP)
+========================================
+
+Step 1 — Collect all original receipts.
+  Keep original receipts for ALL expenses. Digital/photographed receipts are accepted only for amounts below INR 200. Credit card statements alone are not accepted.
+
+Step 2 — Fill out the Expense Claim Form.
+  Download Form FIN-EC-01 from the Finance section of the company intranet (finance.acmecorp.internal/forms). Complete all mandatory fields: date, vendor, amount, currency, business purpose, and project/cost-centre code.
+
+Step 3 — Attach receipts.
+  Attach scanned copies (PDF or clear JPEG) of all receipts to the claim form. Label each file as: YYYY-MM-DD_VendorName_Amount.
+
+Step 4 — Submit via the Finance Portal.
+  Log in to the Finance Portal at finance.acmecorp.internal/expenses. Upload the completed form and all receipt attachments. Note the claim reference number shown on screen.
+
+Step 5 — Manager Approval.
+  Your direct manager will receive an automated notification and must approve or reject the claim within 3 working days. If there is no response within 5 working days, contact the Finance team at finance@acmecorp.com.
+
+Step 6 — Finance Review.
+  Approved claims are reviewed by the Finance team within 5 working days. Claims with discrepancies or missing receipts will be returned to the employee with comments.
+
+Step 7 — Payment.
+  Approved claims are processed in the monthly payroll cycle. Reimbursements are paid directly to the employee's salary bank account, as a separate line item on the payslip. Payment typically arrives within 15–20 working days of submission.
+
+========================================
+5. SUBMISSION DEADLINE
+========================================
+
+All expense claims must be submitted within 60 calendar days of the date the expense was incurred. Late submissions will not be processed unless a written exception is approved by the CFO.
+
+========================================
+6. ADVANCE PAYMENTS
+========================================
+
+Employees travelling on company business may request a cash advance of up to INR 20,000 by submitting Form FIN-ADV-01 at least 5 working days before travel. The advance must be reconciled against actual expenses (with receipts) within 10 working days of return from travel. Unreconciled advances will be deducted from the next payroll.
+
+========================================
+7. FOREIGN CURRENCY EXPENSES
+========================================
+
+Expenses incurred in foreign currencies must be reported in the original currency. The Finance team will convert using the interbank exchange rate on the date of the expense as per the Reserve Bank of India published rate.
+
+========================================
+8. CONTACT
+========================================
+
+Finance team: finance@acmecorp.com | Ext. 3200
+Finance Portal: finance.acmecorp.internal/expenses
+Expense Claim Form: finance.acmecorp.internal/forms

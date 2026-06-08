@@ -1,0 +1,136 @@
+ACME CORP — NEW EMPLOYEE ONBOARDING GUIDE
+Document ID: HR-002 | Version: 3.1 | Effective Date: January 1, 2024
+
+========================================
+1. WELCOME TO ACME CORP
+========================================
+
+Congratulations and welcome! This guide walks you through everything you need to do in your first 30 days. Your onboarding buddy (assigned before Day 1) and HR Business Partner are your primary contacts for any questions.
+
+Pre-joining contact: onboarding@acmecorp.com | Ext. 2150
+
+========================================
+2. BEFORE YOU JOIN (PRE-DAY 1)
+========================================
+
+You will receive the following via email within 5 business days of your offer acceptance:
+  - Welcome pack and company overview document
+  - IT equipment delivery confirmation (laptop, accessories)
+  - System access request form — complete and return to IT Helpdesk
+  - Benefits enrollment instructions — must be completed within 7 days of joining
+  - Background verification (BGV) request from our third-party provider (Authbridge)
+
+Action required before Day 1:
+  a) Complete the BGV form online at the link provided.
+  b) Submit required documents: Aadhaar, PAN card, last 3 months' payslips, offer letter from current/previous employer, education certificates.
+  c) Set up your company email on your phone (instructions provided in the welcome pack).
+
+========================================
+3. FIRST WEEK ACTIVITIES (DAYS 1–5)
+========================================
+
+DAY 1 — Arrival and Orientation
+  09:00 AM : Report to Reception at the Main Office. Bring original ID (Aadhaar or Passport).
+  09:15 AM : Meet the HR team. Receive your employee ID card and access badge.
+  09:30 AM : IT setup session — collect laptop, configure email, install required software, connect to VPN.
+  11:00 AM : Company orientation session (1.5 hours):
+               - Company history, mission, vision, and values
+               - Organizational structure and key leadership
+               - Workplace facilities, cafeteria, and emergency exits
+  12:30 PM : Lunch with your onboarding buddy and team.
+  02:00 PM : Meet your direct manager — discuss the role, team, and 30/60/90-day expectations.
+  04:00 PM : HR documentation completion — fill and submit all joining forms (PF nomination, gratuity nomination, bank account details for salary).
+
+DAY 2 — Systems and Tools Training
+  09:00 AM : HR Self-Service Portal (HRSS) walkthrough — leave application, payslips, personal details update.
+  10:30 AM : Finance Portal and Expense Reimbursement system demo.
+  11:30 AM : Internal communication tools: Slack setup, MS Teams, company intranet (intranet.acmecorp.internal).
+  02:00 PM : Performance Management System (PMS) orientation.
+  03:30 PM : Company policies overview session with HR (covers leave, expenses, code of conduct, IT security basics).
+
+DAY 3 — Department and Team Integration
+  09:00 AM : Department orientation by Department Head — team structure, current projects, priorities.
+  11:00 AM : 1:1 meetings with each team member (30 minutes each).
+  02:00 PM : Shadow a team meeting or project review to understand current work.
+  04:00 PM : Complete mandatory e-learning modules on LMS:
+               - Code of Conduct & Ethics (1 hr)
+               - Data Privacy Awareness (45 min)
+               - IT Security Essentials (1 hr)
+               - Prevention of Sexual Harassment (POSH) — mandatory, 1 hr
+
+DAY 4 — Role-Specific Deep Dive
+  Full day with your manager and buddy to:
+  - Understand tools, systems, and processes specific to your role.
+  - Get access to relevant drives, repositories, and dashboards.
+  - Review ongoing projects you will be contributing to.
+  - Draft your 30-day plan and discuss with your manager.
+
+DAY 5 — Wrap-Up and Admin Completion
+  09:00 AM : Verify all system accesses are working correctly. Report any gaps to IT Helpdesk.
+  10:00 AM : Enroll in health insurance and other benefits via the enrollment link (deadline: Day 7).
+  11:00 AM : Complete all pending e-learning modules from Day 3.
+  02:00 PM : End-of-week check-in with HR buddy: any questions, concerns, or issues.
+  03:00 PM : Set up recurring 1:1 with manager (weekly for first 3 months).
+
+========================================
+4. FIRST 30-DAY MILESTONES (CHECKLIST)
+========================================
+
+By end of Week 1:
+  [ ] Employee ID card received and working
+  [ ] Laptop configured; all required software installed
+  [ ] HRSS, PMS, Finance Portal, Slack, MS Teams access confirmed
+  [ ] 4 mandatory e-learning modules completed
+  [ ] Benefits enrollment submitted
+  [ ] All joining documents signed and submitted to HR
+  [ ] 30-day plan drafted and approved by manager
+
+By end of Week 2:
+  [ ] 3 SMART goals entered in PMS for the current performance period
+  [ ] All BGV documents submitted
+  [ ] Onboarding buddy check-in meeting completed
+
+By end of Month 1:
+  [ ] 30-day plan review completed with manager
+  [ ] UAN (EPF) activated
+  [ ] Flexi-Pay declarations submitted (if joining window is open)
+  [ ] Attended at least one team meeting, one all-hands, and one department town hall
+
+========================================
+5. KEY CONTACTS DIRECTORY
+========================================
+
+  Your Manager:       Assigned before Day 1 (in offer letter)
+  Onboarding Buddy:   Assigned before Day 1 (email from HR)
+  HR Team:            hrteam@acmecorp.com | Ext. 2100
+  IT Helpdesk:        ithelpdesk@acmecorp.com | Ext. 4000
+  Payroll:            payroll@acmecorp.com | Ext. 3100
+  Facilities:         facilities@acmecorp.com | Ext. 5000
+  Security (badge):   security@acmecorp.com | Ext. 4500
+
+========================================
+6. USEFUL LINKS
+========================================
+
+  Company Intranet:   intranet.acmecorp.internal
+  HRSS Portal:        hr.acmecorp.internal
+  PMS Portal:         performance.acmecorp.internal
+  Finance Portal:     finance.acmecorp.internal
+  LMS (e-learning):   learning.acmecorp.internal
+  IT Helpdesk:        ithelpdesk.acmecorp.internal
+
+========================================
+7. FREQUENTLY ASKED ONBOARDING QUESTIONS
+========================================
+
+Q: When will I receive my first salary?
+A: Salaries are disbursed on the last working day of each month. If you join after the 20th of the month, your first salary may include pay for joining month + the following month.
+
+Q: When does my medical insurance start?
+A: Health insurance is active from your date of joining. Your e-card (digital insurance card) will be emailed within 7 working days. In the meantime, retain your company ID for identification at network hospitals.
+
+Q: How do I get a parking pass?
+A: Submit a parking request via Facilities portal at facilities.acmecorp.internal. Processing takes 3–5 working days.
+
+Q: When can I take annual leave?
+A: Annual leave accrues from Day 1. However, you cannot take more than 5 days during the first 3 months without manager approval. Leave application is via the HRSS portal.

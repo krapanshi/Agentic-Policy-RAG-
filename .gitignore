@@ -1,0 +1,20 @@
+# API keys — NEVER upload this
+.env
+
+# Virtual environment — too large, not needed on GitHub
+venv/
+
+# ChromaDB local database — auto-rebuilt on first run
+chroma_db/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+logs/*.log
+
+# OS files
+.DS_Store
+Thumbs.db

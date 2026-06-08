@@ -1,0 +1,86 @@
+ACME CORP — EMPLOYEE LEAVE POLICY
+Document ID: HR-001 | Version: 3.2 | Effective Date: January 1, 2024
+
+========================================
+1. ANNUAL LEAVE (PAID TIME OFF)
+========================================
+
+1.1 Entitlement
+All full-time permanent employees are entitled to 21 working days of paid annual leave per calendar year. Part-time employees receive annual leave on a pro-rata basis proportional to their contracted hours.
+
+New employees: Annual leave begins accruing from the first day of employment. During the first year, leave accrues at 1.75 days per month. New joiners may not take more than 5 days in their first three months of employment without prior written approval from their manager.
+
+1.2 Carry-Forward
+Employees may carry forward a maximum of 5 unused annual leave days into the following calendar year. These carry-forward days expire on March 31 of the following year and cannot be encashed. Any leave beyond 5 days that is unused at year-end is forfeited unless HR approves a written exception.
+
+1.3 Annual Leave Application Process
+  Step 1: Submit a leave request via the HR Self-Service Portal (HRSS) at hr.acmecorp.internal at least 5 working days before the intended leave start date.
+  Step 2: Your direct manager must approve or reject the request within 2 working days.
+  Step 3: Once approved, the system sends a confirmation email to both employee and manager.
+  Step 4: For leave of more than 10 consecutive working days, Department Head approval is also required.
+
+Leave applications submitted with less than 5 working days' notice may be rejected at the manager's discretion, except in cases of genuine emergencies.
+
+1.4 Blackout Periods
+Annual leave may be restricted during peak business periods (e.g., end-of-quarter, major product launches). HR will notify teams of blackout periods at least 30 days in advance via email.
+
+========================================
+2. SICK LEAVE
+========================================
+
+2.1 Entitlement
+All employees are entitled to 12 working days of paid sick leave per calendar year. Sick leave does not carry over and cannot be encashed.
+
+2.2 Notification
+Employees must inform their manager by 9:00 AM on each day of absence, either by phone call or messaging on the official team channel. Failure to notify may result in the absence being marked as unpaid leave.
+
+2.3 Medical Certificate
+For absences of 3 or more consecutive days, a medical certificate from a registered medical practitioner is mandatory and must be submitted to HR within 2 working days of returning to work. Without a medical certificate, the leave will be converted to unpaid leave.
+
+2.4 Extended Illness
+For illness exceeding 12 days, the employee may apply for Extended Medical Leave under Section 7 of this policy. The company's insurance panel may be involved. Contact HR at hrteam@acmecorp.com for guidance.
+
+========================================
+3. CASUAL / EMERGENCY LEAVE
+========================================
+
+3.1 Entitlement
+Employees are entitled to 3 days of casual leave per calendar year for unforeseen personal emergencies (e.g., family emergencies, urgent personal matters). Casual leave cannot be combined with annual leave or planned in advance; it is strictly for genuine emergencies.
+
+3.2 Application
+Casual leave must be communicated to the manager as soon as possible. A brief explanation of the emergency must be recorded in the HRSS portal within 24 hours of taking the leave.
+
+========================================
+4. MATERNITY AND PATERNITY LEAVE
+========================================
+
+4.1 Maternity Leave
+Female employees are entitled to 26 weeks (182 days) of paid maternity leave per child, subject to the following conditions:
+  - The employee has completed at least 12 months of continuous employment.
+  - Maternity leave must begin no later than 4 weeks before the expected due date.
+  - Medical documentation confirming the expected delivery date must be provided to HR at least 8 weeks before the intended start of leave.
+
+4.2 Paternity Leave
+Male employees and partners are entitled to 10 working days of paid paternity leave, to be taken within 6 weeks of the child's birth or adoption placement. Application must be submitted via the HRSS portal at least 4 weeks before the expected leave date.
+
+4.3 Adoption Leave
+Employees adopting a child below the age of 5 are entitled to leave equivalent to maternity/paternity leave under the same conditions. Documentation from the adoption agency is required.
+
+========================================
+5. UNPAID LEAVE
+========================================
+
+Employees may apply for unpaid leave for personal reasons not covered by other leave categories. Unpaid leave is at the complete discretion of management and requires Department Head and HR approval. Applications must be submitted at least 15 working days in advance. Continuous unpaid leave of more than 30 days requires Executive approval.
+
+========================================
+6. PUBLIC HOLIDAYS
+========================================
+
+Employees are entitled to all gazetted national public holidays. When a public holiday falls on a weekend, the next working day is observed as a compensatory holiday. A list of public holidays is published on the company intranet each December for the following year.
+
+========================================
+7. CONTACT
+========================================
+
+For leave-related queries: hrteam@acmecorp.com | Ext. 2100
+HR Self-Service Portal: hr.acmecorp.internal

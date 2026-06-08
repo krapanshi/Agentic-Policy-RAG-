@@ -1,0 +1,124 @@
+ACME CORP — DATA PRIVACY POLICY
+Document ID: IT-004 | Version: 2.2 | Effective Date: March 1, 2024
+
+========================================
+1. PURPOSE
+========================================
+
+This policy explains how Acme Corp collects, uses, stores, protects, and disposes of personal data belonging to employees, customers, prospects, and third parties. It reflects our obligations under applicable data protection laws including India's Digital Personal Data Protection Act (DPDPA) 2023 and the General Data Protection Regulation (GDPR) for data relating to EU residents.
+
+All employees who handle personal data in any capacity must read, understand, and comply with this policy.
+
+========================================
+2. DATA PROTECTION OFFICER (DPO)
+========================================
+
+Acme Corp has appointed a Data Protection Officer responsible for overseeing data protection compliance:
+  DPO Name:    Available on the company intranet under Legal > Data Privacy
+  DPO Email:   dpo@acmecorp.com
+  DPO Phone:   Ext. 2400
+
+Employees with data privacy questions or concerns should contact the DPO directly.
+
+========================================
+3. TYPES OF PERSONAL DATA WE PROCESS
+========================================
+
+3.1 Employee Data
+  Name, employee ID, contact details, date of birth, national ID numbers (Aadhaar, PAN), bank account details, salary information, health/insurance information, performance records, attendance records, disciplinary records.
+
+3.2 Customer / Prospect Data
+  Name, email, phone, company, purchase history, communication preferences, support ticket content, IP addresses (for web analytics), behavioural data from product usage.
+
+3.3 Sensitive Personal Data
+  Health information, biometric data (fingerprints from attendance system), financial information, religious/caste data (limited cases in HR forms) — these require extra protection.
+
+========================================
+4. DATA COLLECTION PRINCIPLES
+========================================
+
+All personal data collected by Acme Corp must comply with the following principles:
+  a) Lawful Basis: Collected under at least one lawful basis (consent, contract, legal obligation, legitimate interests).
+  b) Purpose Limitation: Collected only for specified, explicit purposes. May not be used for unrelated purposes.
+  c) Data Minimisation: Only collect what is strictly necessary.
+  d) Accuracy: Data must be kept accurate and up to date.
+  e) Storage Limitation: Not kept longer than necessary (see retention schedule in Section 7).
+  f) Security: Protected with appropriate technical and organisational measures.
+  g) Accountability: Acme Corp is responsible and must demonstrate compliance.
+
+========================================
+5. DATA SUBJECT RIGHTS
+========================================
+
+Individuals whose data Acme Corp holds have the following rights (subject to applicable law):
+  - Right to access: Request a copy of personal data held about them.
+  - Right to correction: Request correction of inaccurate data.
+  - Right to erasure ("right to be forgotten"): Request deletion of data when no longer needed or if consent is withdrawn.
+  - Right to portability: Receive data in a machine-readable format.
+  - Right to object: Object to processing for direct marketing or profiling.
+  - Right to restrict processing: Request processing be limited while a complaint is investigated.
+
+Requests should be submitted to dpo@acmecorp.com. Acme Corp will respond within 30 calendar days (extendable by 2 months for complex requests with notice).
+
+========================================
+6. DATA SHARING
+========================================
+
+6.1 Internal Sharing
+Personal data may be shared internally only on a need-to-know basis. Employees must not share colleagues' personal data with others who have no legitimate business need.
+
+6.2 Third-Party Processors
+Acme Corp may share data with approved third-party processors (e.g., payroll provider, cloud storage, HR systems vendor, background verification agency). All processors must:
+  a) Be listed in the approved vendor register maintained by Legal/IT.
+  b) Have signed a Data Processing Agreement (DPA) with Acme Corp.
+  c) Provide sufficient guarantees of data protection.
+
+6.3 Cross-Border Transfer
+Transfers of EU personal data outside the EEA must comply with GDPR Chapter V (Standard Contractual Clauses or adequacy decision). Transfers of Indian resident data must comply with DPDPA 2023. Legal must approve all new cross-border data transfer arrangements.
+
+6.4 Law Enforcement Requests
+Data may be disclosed to law enforcement or regulatory bodies when legally required. All such requests must be forwarded to the Legal team before any data is disclosed.
+
+========================================
+7. DATA RETENTION SCHEDULE
+========================================
+
+  Employee records:        7 years after separation (statutory requirement)
+  Customer contracts:      10 years after contract expiry
+  Customer support tickets: 3 years
+  Sales leads and CRM data: 3 years after last meaningful contact
+  Financial records:       7 years (Companies Act / Income Tax requirements)
+  CCTV footage:            30 days, then auto-overwritten
+  Security incident logs:  3 years
+  Marketing consent records: Duration of consent + 2 years
+
+Data that has reached its retention limit must be securely deleted (see IT Security Policy, Section 5.3).
+
+========================================
+8. DATA BREACH RESPONSE
+========================================
+
+In the event of a data breach involving personal data:
+  - The employee who discovers the breach must report it immediately as per the Incident Response Playbook (IT-005).
+  - The DPO must be notified within 1 hour of confirmation.
+  - The DPO assesses whether regulatory notification is required:
+      - Under DPDPA 2023: India's DPBI must be notified promptly.
+      - Under GDPR: Lead supervisory authority must be notified within 72 hours of becoming aware.
+      - Affected individuals must be notified without undue delay if the breach poses high risk.
+  - All breach incidents are logged in the Incident Tracking System (ITS) at security.acmecorp.internal.
+
+========================================
+9. TRAINING AND AWARENESS
+========================================
+
+  - All employees must complete the "Data Privacy Awareness" training module within their first 2 weeks.
+  - An annual refresher module is mandatory for all employees.
+  - The DPO conducts targeted training for teams handling large volumes of sensitive data.
+
+========================================
+10. CONTACT
+========================================
+
+Data Protection Officer:  dpo@acmecorp.com | Ext. 2400
+Legal team:               legal@acmecorp.com | Ext. 2500
+IT Security (breaches):   security@acmecorp.com | Ext. 4100

@@ -1,0 +1,136 @@
+ACME CORP — CODE OF CONDUCT AND BUSINESS ETHICS
+Document ID: HR-003 | Version: 4.0 | Effective Date: January 1, 2024
+
+========================================
+1. INTRODUCTION
+========================================
+
+Acme Corp's Code of Conduct sets the standard for how every employee, contractor, and officer must behave in their professional capacity. Adherence to this Code is a condition of employment. Violations may result in disciplinary action up to and including termination and referral to law enforcement where applicable.
+
+If you are ever unsure whether a course of action is ethical, ask yourself: "Would I be comfortable if my manager, the CEO, or a newspaper reporter could see exactly what I am doing and why?" If the answer is no, don't do it.
+
+========================================
+2. CORE VALUES
+========================================
+
+All behaviour should be guided by Acme Corp's five core values:
+  1. Integrity      — We are honest and transparent in everything we do.
+  2. Ownership      — We take responsibility for our actions and outcomes.
+  3. Collaboration  — We work together and respect each other's contributions.
+  4. Excellence     — We strive to deliver the highest quality in everything we do.
+  5. Inclusion      — We embrace and value diversity of people, thinking, and experience.
+
+========================================
+3. CONFLICTS OF INTEREST
+========================================
+
+3.1 What Is a Conflict of Interest?
+A conflict of interest arises when an employee's personal interests (financial, personal, or otherwise) compete with, or appear to compete with, the interests of Acme Corp. Even the appearance of a conflict can damage trust and must be disclosed.
+
+3.2 Common Examples of Conflicts
+  a) Financial interest in a supplier, customer, or competitor of Acme Corp.
+  b) Employment (full-time, part-time, or consulting) with a competitor, supplier, or customer while employed at Acme Corp.
+  c) Awarding or influencing a contract, purchase decision, or vendor selection where a family member or close associate has a financial stake.
+  d) Using company resources, information, or relationships to run a personal business.
+  e) Accepting gifts, meals, or entertainment from vendors that could influence business decisions (see Section 5).
+  f) Hiring or directly supervising a family member or personal partner.
+
+3.3 Disclosure Requirement
+ALL conflicts of interest — actual, potential, or perceived — MUST be disclosed immediately using the Conflict of Interest Disclosure Form (HR-COI-01), available on the HRSS portal. Submit to your manager AND the Legal/Compliance team at compliance@acmecorp.com.
+
+  - New employees: Must submit a conflict of interest declaration within 7 days of joining, even if there is nothing to declare (a "nil" declaration is required).
+  - Annual declaration: All employees must resubmit their conflict of interest declaration by January 31 each year via the HRSS portal.
+  - Material changes: Any new conflict that arises during the year must be disclosed within 5 working days.
+
+3.4 Consequences
+Failure to disclose a conflict of interest is a serious violation of this Code and may result in immediate termination of employment. The company reserves the right to pursue legal remedies for losses resulting from undisclosed conflicts.
+
+========================================
+4. BRIBERY AND CORRUPTION
+========================================
+
+4.1 Zero Tolerance Policy
+Acme Corp has a zero-tolerance policy on bribery and corruption. No employee may, directly or indirectly:
+  - Offer, give, request, or accept a bribe in any form — cash, gifts, services, favours, or anything else of value — to influence a business decision.
+  - Make "facilitation payments" (unofficial payments to speed up a routine government process).
+
+4.2 Gifts and Hospitality
+  - Employees may accept gifts from external parties only if: (a) the gift's value is below INR 1,000, (b) it is not in the form of cash or cash equivalents, and (c) accepting it would not create an obligation or appearance of influence.
+  - Gifts exceeding INR 1,000 must be declared to the compliance team within 3 working days and surrendered for company disposal (e.g., donated to charity, raffled at team events). Keeping or concealing such gifts is a disciplinary offence.
+  - Business entertainment (meals, events): Must be reasonable, transparent, and pre-approved by your manager for amounts above INR 3,000. Entertainment with government officials requires Compliance pre-approval regardless of amount.
+
+========================================
+5. CONFIDENTIALITY AND INFORMATION SECURITY
+========================================
+
+5.1 Company Confidential Information
+Employees must not disclose company confidential information (financial data, product plans, customer data, pricing, trade secrets, personnel information, M&A activity) to any external party without explicit written authorization from Legal or the CEO.
+
+5.2 Employee Information
+Personnel information (salaries, performance ratings, personal details) of colleagues must be kept strictly confidential. Discussing another employee's salary with others is a breach of this Code.
+
+5.3 Post-Employment
+Confidentiality obligations continue for 2 years after leaving Acme Corp.
+
+5.4 Insider Trading
+Employees who have access to material non-public information (MNPI) about Acme Corp or any publicly listed company through their work must not buy or sell shares or advise others to do so based on that information. Any uncertainty about MNPI trading restrictions should be directed to the Legal team.
+
+========================================
+6. RESPECTFUL WORKPLACE
+========================================
+
+6.1 Anti-Harassment and Anti-Discrimination
+Acme Corp is committed to a workplace free from harassment and discrimination. Prohibited conduct includes:
+  - Harassment based on gender, race, religion, caste, age, disability, sexual orientation, or any other protected characteristic.
+  - Sexual harassment as defined under the POSH Act (Prevention, Prohibition, and Redressal of Sexual Harassment of Women at Workplace Act, 2013).
+  - Bullying, intimidation, or threatening behaviour toward any individual.
+
+6.2 Reporting Mechanisms
+  - Report harassment to your HR Business Partner, the Internal Complaints Committee (ICC) under POSH, or through the anonymous Ethics Hotline (see Section 9).
+  - Complaints are investigated promptly. Retaliation against anyone who raises a complaint in good faith is itself a violation of this Code.
+
+6.3 Social Media Conduct
+  - Employees may express personal views on social media but must not:
+      a) Represent personal opinions as Acme Corp's positions.
+      b) Disclose confidential information.
+      c) Make derogatory statements about Acme Corp, its leadership, customers, or competitors.
+      d) Engage in discriminatory or harassing behaviour online in a professional context.
+  - Employees must clearly state "views are my own" when posting about industry topics where Acme Corp could be inferred as a context.
+
+========================================
+7. USE OF COMPANY RESOURCES
+========================================
+
+  - Company assets (equipment, software, intellectual property, office supplies) are for business use. Limited personal use is permitted as long as it does not interfere with work, consume significant resources, or violate other policies.
+  - Employees must protect company property from theft, misuse, and loss.
+  - Intellectual property created by employees during employment or using company resources belongs to Acme Corp.
+
+========================================
+8. SPEAKING UP — YOUR OBLIGATION
+========================================
+
+Every employee has a duty to speak up if they witness or suspect a violation of this Code, legal requirements, or company policies. You may:
+  a) Report directly to your manager or HR.
+  b) Use the anonymous Ethics Hotline: 1800-XXX-YYYY (toll-free, 24/7) or report online at ethics.acmecorp.internal.
+  c) Email the Chief Compliance Officer directly: compliance@acmecorp.com.
+
+All reports are taken seriously. Retaliation against good-faith reporters is strictly prohibited and is itself a disciplinary offence.
+
+========================================
+9. DISCIPLINARY PROCESS
+========================================
+
+Violations of this Code will be investigated by HR and/or Legal. Outcomes depend on severity:
+  - Minor violations: Written warning, mandatory training.
+  - Moderate violations: Final written warning, demotion, suspension.
+  - Serious violations (e.g., fraud, bribery, harassment, data theft): Immediate termination of employment and possible referral to law enforcement.
+
+========================================
+10. CONTACT
+========================================
+
+HR / Compliance queries:  compliance@acmecorp.com | Ext. 2300
+Ethics Hotline:           1800-XXX-YYYY (24/7, anonymous)
+Ethics web portal:        ethics.acmecorp.internal
+ICC (POSH):               icc@acmecorp.com
+Legal:                    legal@acmecorp.com

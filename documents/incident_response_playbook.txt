@@ -1,0 +1,116 @@
+ACME CORP — SECURITY INCIDENT RESPONSE PLAYBOOK
+Document ID: IT-005 | Version: 4.0 | Effective Date: March 1, 2024
+
+========================================
+1. PURPOSE
+========================================
+
+This playbook defines the procedures every employee and the IT Security team must follow when a security incident is discovered. A security incident includes — but is not limited to — data breaches, ransomware attacks, phishing compromise, unauthorized system access, loss of a device containing company data, or accidental exposure of sensitive customer information.
+
+Quick goal: Contain fast, communicate clearly, recover completely.
+
+========================================
+2. WHAT COUNTS AS A SECURITY INCIDENT?
+========================================
+
+Report ANY of the following immediately:
+  - You receive a suspicious email and clicked a link or opened an attachment.
+  - You believe your work laptop, phone, or USB device has been lost or stolen.
+  - You notice unusual activity in your account (emails sent you did not write, files deleted, settings changed).
+  - A colleague's account appears to be sending unusual messages.
+  - You accidentally sent sensitive company or customer data to an unintended recipient.
+  - You discover that a database, file share, or cloud storage bucket is publicly accessible and should not be.
+  - A system is behaving abnormally (unexplained slowness, random pop-ups, files encrypting themselves).
+  - A third-party vendor notifies you of a breach affecting Acme Corp data.
+
+When in doubt, report it. It is always better to report a false alarm than to miss a real incident.
+
+========================================
+3. IMMEDIATE RESPONSE STEPS — ALL EMPLOYEES
+========================================
+
+If you discover or suspect a security incident, take these steps immediately:
+
+Step 1 — STOP and DISCONNECT.
+  Do not attempt to fix the problem yourself. Do not turn off your device (unless instructed). If ransomware is actively running, physically disconnect the Ethernet cable or disable Wi-Fi to isolate the device from the network. Do not reboot.
+
+Step 2 — REPORT WITHIN 1 HOUR.
+  Contact the IT Security team using ALL of the following channels:
+    • Emergency hotline: +91-80-4567-8910 (available 24/7)
+    • Email: security@acmecorp.com
+    • Slack: #security-incidents channel (tag @security-team)
+  Include in your report:
+    - Your name and employee ID
+    - Date and time you noticed the issue
+    - A brief description of what happened
+    - Which systems or data may be affected
+    - Any actions you have already taken
+
+Step 3 — PRESERVE EVIDENCE.
+  Do not delete emails, logs, screenshots, or files related to the incident. Take a screenshot of any suspicious messages before dismissing them. If you receive a phishing email, do NOT forward it to colleagues — mark it as phishing in your email client.
+
+Step 4 — NOTIFY YOUR MANAGER.
+  Inform your direct manager immediately after contacting IT Security. Your manager will escalate to HR and Legal if required.
+
+Step 5 — COOPERATE FULLY.
+  The IT Security team may request temporary access to your device or accounts for investigation. You must cooperate fully and promptly. Do not discuss the incident details externally or on social media.
+
+========================================
+4. IT SECURITY TEAM RESPONSE PROCESS
+========================================
+
+Phase 1 — Identification (0–2 hours)
+  - Acknowledge the report within 30 minutes.
+  - Assign an Incident ID (format: INC-YYYYMMDD-NNN).
+  - Classify the incident by severity: P1 (Critical), P2 (High), P3 (Medium), P4 (Low).
+  - P1 criteria: Active ransomware, confirmed data breach of customer PII, complete system outage.
+  - Begin detailed logging in the Incident Tracking System (ITS) at security.acmecorp.internal.
+
+Phase 2 — Containment (0–4 hours for P1/P2)
+  - Isolate affected systems from the network.
+  - Reset compromised credentials.
+  - Block malicious IP addresses or email domains at the firewall/email gateway.
+  - Preserve forensic images of affected systems before remediation.
+
+Phase 3 — Eradication and Recovery
+  - Remove malicious software or unauthorized access.
+  - Patch exploited vulnerabilities.
+  - Restore systems from clean backups.
+  - Verify integrity of restored systems before returning them to production.
+
+Phase 4 — Post-Incident Review (within 5 working days of closure)
+  - A written post-incident report must be completed covering: timeline, root cause, impact, and corrective actions.
+  - Report is shared with CISO, relevant Department Heads, and Legal.
+  - Lessons learned are incorporated into security training within 30 days.
+
+========================================
+5. DATA BREACH NOTIFICATION OBLIGATIONS
+========================================
+
+5.1 Internal Notification
+  The CISO must be notified within 1 hour of confirming a data breach. Legal and HR must be notified within 2 hours.
+
+5.2 Regulatory Notification
+  If personal data of customers or employees is breached, the Data Protection Officer (DPO) must assess notification obligations under applicable law (e.g., PDPB in India, GDPR for EU subjects) within 24 hours. Regulatory notification deadlines vary from 24 hours to 72 hours.
+
+5.3 Customer Notification
+  Decision to notify affected customers requires approval from the CISO, Legal Counsel, and CEO. Communications must be reviewed by Legal before dispatch.
+
+========================================
+6. ESCALATION MATRIX
+========================================
+
+P1 Critical     → IT Security Lead + CISO + CTO + CEO (within 1 hour)
+P2 High         → IT Security Lead + CISO (within 2 hours)
+P3 Medium       → IT Security Lead (within 4 hours)
+P4 Low          → Assigned IT Security analyst (within 1 working day)
+
+========================================
+7. CONTACT DIRECTORY
+========================================
+
+IT Security Hotline:  +91-80-4567-8910 (24/7)
+Security Email:       security@acmecorp.com
+DPO:                  dpo@acmecorp.com
+CISO:                 ciso@acmecorp.com
+Incident Tracker:     security.acmecorp.internal

@@ -1,0 +1,119 @@
+ACME CORP — REMOTE WORK POLICY
+Document ID: HR-004 | Version: 2.5 | Effective Date: February 1, 2024
+
+========================================
+1. POLICY OVERVIEW
+========================================
+
+Acme Corp supports a hybrid work model that allows eligible employees to work remotely on designated days, subject to business needs, role requirements, and manager approval. This policy outlines the eligibility criteria, expectations, security requirements, and approval process for remote work arrangements.
+
+========================================
+2. ELIGIBILITY CRITERIA
+========================================
+
+2.1 Who Is Eligible
+An employee is eligible to work remotely if they meet ALL of the following conditions:
+  a) Has completed a minimum of 6 months of continuous service with Acme Corp.
+  b) Is in a role that can be performed effectively without a physical presence (i.e., not in roles requiring hands-on lab, manufacturing, or on-site customer service).
+  c) Has maintained a performance rating of "Meets Expectations" or above in the most recent review cycle.
+  d) Has no active disciplinary action on their record.
+  e) Has completed the mandatory Remote Work Security Training (available on the LMS at learning.acmecorp.internal).
+
+2.2 Who Is NOT Eligible
+  - Employees in their probation period (first 6 months)
+  - Interns and apprentices
+  - Employees whose roles require physical presence (factory, lab, reception, facilities)
+  - Employees on a Performance Improvement Plan (PIP)
+
+2.3 Manager Discretion
+Eligibility does not guarantee approval. Managers may restrict remote work based on project demands, team coordination needs, or performance concerns. All decisions must be documented in writing.
+
+========================================
+3. APPROVED REMOTE WORK SCHEDULE
+========================================
+
+3.1 Standard Hybrid Arrangement
+Eligible employees may work remotely for a maximum of 2 days per week (Monday through Friday). Preference for remote days should be agreed with the manager at the beginning of each month.
+
+3.2 Required Office Days
+All employees must be in the office on:
+  - Team meeting days designated by the department (typically Tuesday and Thursday)
+  - Days with scheduled client visits, project reviews, or town halls
+  - First and last working day of each month
+
+3.3 Full Remote (Exception)
+Full-time remote work is only approved in exceptional circumstances (e.g., relocation for a spouse, health conditions). It requires approval from the Department Head, HR Director, and CEO. Full remote arrangements are reviewed every 6 months.
+
+========================================
+4. HOME WORKSPACE REQUIREMENTS
+========================================
+
+Employees working from home must have and maintain:
+  a) A dedicated, quiet workspace with a door that can be closed during calls.
+  b) Reliable internet connection with minimum 25 Mbps download / 10 Mbps upload speed.
+  c) A company-issued laptop (personal devices are NOT permitted for work tasks).
+  d) Webcam and headset for video calls.
+  e) Adequate lighting for video conferences.
+
+The company does NOT reimburse home office furniture, internet connection costs, or electricity unless the employee is on a formal Full Remote arrangement approved at the Director level.
+
+========================================
+5. REMOTE WORK SECURITY REQUIREMENTS
+========================================
+
+When working remotely, employees MUST:
+  a) Use the company VPN at ALL times when accessing any internal system or data.
+  b) Ensure the home Wi-Fi network is secured with WPA2 or WPA3 encryption and a strong password. Public Wi-Fi (cafes, airports, hotels) must NEVER be used without VPN.
+  c) Lock the screen whenever stepping away from the workstation (Windows + L).
+  d) Ensure no unauthorised person can view or overhear sensitive work conversations.
+  e) Store all work files on company-approved cloud storage (OneDrive or SharePoint), never on local personal drives or personal cloud accounts.
+  f) Report lost or stolen devices immediately per the Incident Response Playbook (IT-005).
+
+Failure to comply with security requirements while working remotely may result in immediate revocation of remote work privileges and disciplinary action.
+
+========================================
+6. AVAILABILITY AND COMMUNICATION EXPECTATIONS
+========================================
+
+6.1 Core Hours
+Remote employees must be available and responsive during core business hours: 10:00 AM – 5:00 PM IST, Monday through Friday.
+
+6.2 Responsiveness
+Employees must respond to emails within 4 hours and to Slack messages within 1 hour during core hours.
+
+6.3 Video Calls
+Employees must attend all scheduled video calls with camera on, unless pre-agreed with the meeting organiser.
+
+6.4 Status Updates
+Employees must post a brief daily update in their team channel by 9:30 AM on remote days, indicating their planned tasks for the day.
+
+========================================
+7. APPROVAL PROCESS
+========================================
+
+Step 1: The employee completes the Remote Work Security Training on the LMS.
+Step 2: The employee submits a Remote Work Request Form (HR-RW-01) via the HRSS portal with proposed remote days and workspace confirmation.
+Step 3: The direct manager reviews and approves/rejects within 5 working days, providing written justification for rejection.
+Step 4: HR records the approved arrangement and sets a review date (6 months from approval).
+
+All remote work arrangements are reviewed every 6 months. Continued eligibility depends on ongoing performance, attendance, and compliance with this policy.
+
+========================================
+8. REVOCATION OF REMOTE WORK PRIVILEGES
+========================================
+
+Remote work privileges may be revoked by the manager or HR at any time due to:
+  - Decline in performance or productivity
+  - Security policy violations
+  - Repeated unavailability during core hours
+  - Business needs requiring increased on-site presence
+
+The employee will receive at least 2 working days' notice of revocation, except in cases of a security breach or gross misconduct.
+
+========================================
+9. CONTACT
+========================================
+
+HR (remote work queries): hrteam@acmecorp.com | Ext. 2100
+IT Helpdesk (VPN setup):   ithelpdesk@acmecorp.com | Ext. 4000
+HR Self-Service Portal:    hr.acmecorp.internal

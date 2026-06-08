@@ -1,0 +1,145 @@
+ACME CORP — IT SECURITY POLICY
+Document ID: IT-001 | Version: 5.1 | Effective Date: March 1, 2024
+
+========================================
+1. PURPOSE AND SCOPE
+========================================
+
+This policy establishes the minimum security standards for all information technology systems, data, and devices owned or operated by Acme Corp, and for all employees, contractors, and third parties who access company systems. Non-compliance may result in disciplinary action up to and including termination of employment.
+
+========================================
+2. ACCEPTABLE USE OF COMPANY SYSTEMS
+========================================
+
+2.1 Permitted Use
+Company-issued devices and internet access may be used for:
+  - Work-related tasks and communications
+  - Limited personal use during non-working hours (provided it does not degrade performance or violate other policies)
+
+2.2 Prohibited Use
+The following activities are strictly prohibited on company systems and networks:
+  - Accessing, downloading, or distributing pornographic, violent, or hate content
+  - Installing unlicensed software
+  - Using company systems to send spam, conduct illegal activities, or harass others
+  - Accessing competitors' systems or confidential competitor information through any unauthorized means
+  - Mining cryptocurrency on company hardware or networks
+  - Using personal cloud storage (Google Drive, Dropbox) to store company data
+  - Disabling or tampering with security software (antivirus, endpoint protection, MDM)
+
+========================================
+3. PASSWORD POLICY
+========================================
+
+3.1 Password Requirements
+All passwords for company systems and applications must meet the following requirements:
+  a) Minimum length: 12 characters.
+  b) Complexity: Must contain AT LEAST three of the four character types:
+       - Uppercase letters (A–Z)
+       - Lowercase letters (a–z)
+       - Numbers (0–9)
+       - Special characters (!@#$%^&*()_+-)
+  c) Must NOT contain: your name, username, employee ID, birth date, or any sequential pattern (e.g., 123456, abcdef, qwerty).
+  d) Must NOT be reused: The system prevents reuse of the last 12 passwords.
+  e) Expiry: Passwords expire every 90 days. The system will prompt you to change your password 14 days before expiry.
+
+3.2 Multi-Factor Authentication (MFA)
+  - MFA is MANDATORY for all company accounts, including email, VPN, cloud tools (Jira, Confluence, GitHub, Salesforce), and the HR and Finance portals.
+  - Supported MFA methods: Microsoft Authenticator app (preferred), hardware security key (YubiKey), or SMS OTP (least preferred — only when other options are unavailable).
+  - If your MFA device is lost, contact IT Helpdesk immediately at ithelpdesk@acmecorp.com.
+
+3.3 Password Manager
+  The company provides a licensed enterprise password manager (1Password Teams). All employees must use it to store and manage passwords. The IT team will provision your account on Day 1. Do NOT store passwords in browser-based password managers.
+
+3.4 Shared Passwords
+  Sharing passwords between employees is PROHIBITED. Every individual must have their own account. If a shared service account is required for a system, raise a request with IT Helpdesk who will create a service account and manage access via Privileged Access Management (PAM) tooling.
+
+========================================
+4. DEVICE SECURITY
+========================================
+
+4.1 Company Devices
+  - All company-issued laptops run mandatory endpoint protection software (CrowdStrike Falcon + BitLocker encryption).
+  - Employees must NOT disable, uninstall, or interfere with any security software.
+  - Automatic OS and security updates must not be deferred for more than 7 days. The system will force-install critical patches.
+  - Screen lock: Devices automatically lock after 10 minutes of inactivity. Employees must not disable this setting.
+  - Full-disk encryption is mandatory (BitLocker for Windows, FileVault for Mac). IT configures this during device setup.
+
+4.2 Personal Devices (BYOD)
+  - Personal devices (phones, tablets) may access company email and Slack ONLY if the device is enrolled in the company Mobile Device Management (MDM) system (Microsoft Intune).
+  - Enrollment instructions: IT portal at ithelpdesk.acmecorp.internal/mdm.
+  - IT has the right to remotely wipe company data from enrolled personal devices if the device is lost, stolen, or if the employee's access is revoked.
+
+4.3 Lost or Stolen Devices
+  - Report any lost or stolen company or enrolled personal device to IT Helpdesk within 1 HOUR of discovery.
+  - Also report as per the Incident Response Playbook (IT-005).
+  - Remote wipe will be initiated immediately.
+
+========================================
+5. DATA CLASSIFICATION AND HANDLING
+========================================
+
+5.1 Data Classification Levels
+
+  CONFIDENTIAL — Customer personal data (PII), financial records, source code, trade secrets, M&A information, employee personal data. Must be encrypted at rest and in transit. Access on need-to-know basis only.
+
+  INTERNAL — Internal business data, meeting notes, internal reports. Not for external sharing without approval. Stored on company SharePoint or OneDrive only.
+
+  PUBLIC — Press releases, published marketing materials, public website content. May be shared externally freely.
+
+5.2 Encryption
+  - Confidential data must be encrypted with AES-256 when stored and TLS 1.2+ when transmitted.
+  - USB drives: Only company-issued encrypted USB drives (IronKey) may be used for Confidential data. Personal USB drives are prohibited for company data.
+
+5.3 Data Disposal
+  - Printed Confidential or Internal documents must be shredded using the cross-cut shredders available in all print rooms.
+  - Digital data must be securely deleted using the IT-approved tool (Eraser for Windows). Simple deletion is NOT sufficient.
+
+========================================
+6. NETWORK SECURITY
+========================================
+
+6.1 VPN
+  - Employees accessing any company system from outside the office (including from home) MUST connect to the company VPN (GlobalProtect) before accessing any internal resource.
+  - VPN client must be kept updated to the latest version (auto-update is enabled by IT).
+
+6.2 Wi-Fi
+  - In the office, use only the "ACME-CORP-SECURE" Wi-Fi network (WPA2 Enterprise). Do NOT use "ACME-GUEST."
+  - Working from a public place (café, airport): always use VPN. Never connect to open/unsecured Wi-Fi without VPN active.
+
+6.3 Firewall and Intrusion Detection
+  - The company firewall monitors all outbound and inbound traffic. Employees must not attempt to bypass the firewall using proxies, VPN clients other than GlobalProtect, or Tor.
+
+========================================
+7. EMAIL AND PHISHING
+========================================
+
+  - Never click links in unsolicited emails. Hover over links to verify the URL before clicking.
+  - Never enter credentials on a page reached via an email link — always navigate directly.
+  - Treat any email asking for urgency, password reset, fund transfer, or credential entry with suspicion.
+  - Report suspicious emails: Use the "Report Phishing" button in Outlook, or forward to phishing@acmecorp.com.
+  - Phishing simulations are run quarterly. Employees who click simulated phishing links will be required to complete refresher security training within 5 working days.
+
+========================================
+8. SOFTWARE AND APPLICATION SECURITY
+========================================
+
+  - Only IT-approved software may be installed on company devices. Approved software list: ithelpdesk.acmecorp.internal/approved-software.
+  - Request new software via the IT Helpdesk portal. Requests are assessed within 5 working days.
+  - Developer employees: All code must be reviewed for OWASP Top 10 vulnerabilities before deployment. Use only approved open-source libraries (vetted against CVE database). See AppSec policy (IT-009).
+
+========================================
+9. COMPLIANCE AND AUDITING
+========================================
+
+  - IT Security conducts quarterly access reviews. All managers must re-certify the access rights of their team members within 10 working days of receiving the review email.
+  - Annual security awareness training is mandatory for all employees (available on LMS). Completion is tracked.
+  - The company is compliant with ISO 27001. An internal audit is conducted every 6 months.
+
+========================================
+10. CONTACT
+========================================
+
+IT Helpdesk:      ithelpdesk@acmecorp.com | Ext. 4000 | ithelpdesk.acmecorp.internal
+IT Security team: security@acmecorp.com | Ext. 4100
+Report phishing:  phishing@acmecorp.com
+CISO:             ciso@acmecorp.com
